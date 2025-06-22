@@ -4,8 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
+Frontend-oriented software developer who came from a neuroscience background
+
 * 🌍  I'm based in Columbus, OH
 * ✉️  You can contact me at [tsion714@gmail.com](mailto:tsion714@gmail.com)
+* 🧠  I'm learning everything to do with AI
+* 🤝  I'm open to collaborating on volunteering, open-source
 
 ### Skills
 
